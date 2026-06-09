@@ -6,7 +6,7 @@
   "free": true,
   "zerone_grounded": true,
   "forge": "youspeak",
-  "tier": "core",
+  "tier": "specialized",
   "weighted_score": "7.20",
   "donors": ["sanskrit:bhakti", "sumerian:me"],
   "runtime": {
